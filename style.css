@@ -154,14 +154,14 @@ ul{
         padding: 0.5rem;
     }
     #menu a {
-	font-size: 30px;
+	font-size: 80px;
         margin: 0 1rem;
 	padding: 0 1rem 1rem;
     }
     #btn-mobile {
         display: flex;
         padding: 0.5rem 1rem;
-        font-size: 30px;
+        font-size: 80px;
         border: none;
         background: none;
         cursor: pointer;
